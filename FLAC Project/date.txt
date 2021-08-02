@@ -1,0 +1,87 @@
+startprog
+
+getlib <librarie.h>
+
+
+int var;
+caracter vector[20];
+float matrix[20][20];
+
+
+struct structura
+int variabila ;
+sircaractere string ;
+endstruct mystruct ; 
+
+
+beginfunctie int functia1 ( int b )
+
+Eval 1 + 2 ;
+
+endfunctie
+
+beginmain
+
+int b ; 
+int c ;
+int d ;
+int e ;
+int f;
+int jj ;
+int tt[100] ;
+
+b <- 5 ;
+
+
+d <- b bitand 3 ;
+c <- 5 bitor 3 ;
+e <- bitnot b ;
+f <- 9 bitxor 15 ; 
+
+Eval f ; 
+
+Eval e ;
+
+Eval d ;
+
+Eval c ;
+
+
+Eval b ;
+
+Eval 7 ; 
+
+
+Eval 18 ;
+
+
+pentru ( b <- 4 ; b < 6 ; b <- b + 1 )
+
+beginblock
+
+Eval 0 ; 
+
+endblock
+
+
+cattimp ( b < 24 )
+
+beginblock
+
+Eval 1 ; 
+
+endblock
+
+apeleaza functia1 ( b ) ;
+
+Eval 2 + 4 ;
+
+daca ( b > 8 ) atunci b <- b + 1 ; altfel b <- b + 8 ;
+
+Eval 2 + 5 ;
+
+endmain
+
+
+endprog
+

@@ -1,0 +1,13 @@
+Nume: var | Tip: int | Valoare: 0 | Scope: global
+Nume: vector | Tip: caracter | Valoare: 0 | Scope: global
+Nume: matrix | Tip: float | Valoare: 0 | Scope: global
+Nume: variabila | Tip: int | Valoare: 0 | Scope: global
+Nume: string | Tip: sircaractere | Valoare: 0 | Scope: global
+Nume: mystruct | Tip: struct | Valoare: 0 | Scope: global
+Nume: b | Tip: int | Valoare: 14 | Scope: local
+Nume: c | Tip: int | Valoare: 7 | Scope: local
+Nume: d | Tip: int | Valoare: 1 | Scope: local
+Nume: e | Tip: int | Valoare: 2 | Scope: local
+Nume: f | Tip: int | Valoare: 6 | Scope: local
+Nume: jj | Tip: int | Valoare: 0 | Scope: local
+Nume: tt | Tip: int | Valoare: 0 | Scope: local
